@@ -12,10 +12,10 @@ const fieldCharacter = "░";
 const pathCharacter = "*";
 
 const promptHeight = require("prompt-sync")({ sigint: true });
-const height = Number(promptHeight("Field height:"));
+const height = Number(promptHeight("Insert field height:"));
 
 const promptWidth = require("prompt-sync")({ sigint: true });
-const width = Number(promptWidth("Field width:"));
+const width = Number(promptWidth("Insert field ield width:"));
 
 //Function to creat a field with given dimensions -> returns an array with nested arrays (each nested array representing a row in a field)
 
