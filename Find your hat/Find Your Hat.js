@@ -64,16 +64,8 @@ class Field {
 //Functions for the game movement
 
 function validImput(imput) {
-  if (
-    imput === "A" ||
-    imput === "a" ||
-    imput === "S" ||
-    imput === "s" ||
-    imput === "W" ||
-    imput === "w" ||
-    imput === "D" ||
-    imput === "d"
-  ) {
+  const option = ["a", "A", "S", "s", "W", "w", "d", "D"];
+  if (option.some((option) => option === imput)) {
     return true;
   } else console.log("Invalid imput, try A,S,D,W!");
 }
