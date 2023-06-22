@@ -1,0 +1,197 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+
+.filler {
+  height: 69px;
+}
+
+/*HLAVICKA*/
+
+header {
+  height: 69px;
+  width: 100%;
+
+  border-bottom: 1px solid seashell;
+  position: fixed;
+  background-color: black;
+  opacity: 0.9;
+  font-weight: bold;
+  text-decoration: underline;
+
+  z-index: 10;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  grid-area: "header_left header_righ";
+}
+
+#header_left {
+  justify-self: start;
+  align-self: center;
+}
+#header_right {
+  justify-self: end;
+}
+
+#header_img {
+  height: 50px;
+  width: auto;
+  margin-left: 10px;
+  align-self: center;
+}
+
+ul#header_right_list li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+#header_right li a:link {
+  color: seashell;
+}
+#header_right li a:visited {
+  color: seashell;
+}
+#header_right li a:hover {
+  color: rgb(178, 251, 215);
+}
+#header_right li a:active {
+  color: gray;
+}
+
+/*HLAVICKA*/
+
+/*Mission*/
+
+.Mission {
+  height: 700px;
+  width: 1200px;
+  margin: auto;
+  position: relative;
+}
+
+#Mission_img {
+  height: 700px;
+  width: 1200px;
+  object-fit: cover;
+}
+.Mission #Mission_text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  background-color: black;
+  opacity: 0.9;
+  padding: 0;
+  line-height: 60%;
+}
+
+/*Mission*/
+
+/*Featured Tea*/
+
+.FeaturedTea {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#FeaturedTea {
+  line-height: 60%;
+}
+#FeaturedTea_div {
+  width: 300px;
+  height: auto;
+  margin: 10px;
+}
+#FeaturedTea_img {
+  height: 200px;
+  width: 300px;
+  margin: 0;
+}
+#FeaturedTea_h4 {
+  margin-top: 10px;
+}
+
+#FeaturedTea_list {
+  max-width: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+/*Featured Tea*/
+
+/*Locations*/
+
+#Location_image {
+  width: auto;
+  height: auto;
+}
+
+.Locations {
+  height: 500px;
+  width: 1200px;
+  margin: auto;
+  position: relative;
+}
+
+#Locations_img {
+  height: 500px;
+  width: 1200px;
+  object-fit: cover;
+}
+
+#Locations_okenka {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+
+#Locations_text {
+  position: absolute;
+  top: 65px; /*toto je blbě ale jako ja nevimco s tim :D*/
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+
+#Locations_okenka {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#okenko {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#prazdno {
+  width: 40px;
+}
+
+/*Locations*/
+
+/*Kontakty+ footer*/
+
+.kontakt {
+  height: 200px;
+}
+
+footer {
+  float: left;
+  margin-left: 20px;
+}
