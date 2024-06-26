@@ -1,4 +1,4 @@
-# Codecademy Off-Platform Project: Tea cozy [⟶](https://zuzoup.github.io/codecademy/tea-cozy/tea-cozy.html)
+# Codecademy Off-Platform Project: Tea cozy [⟶](https://zuzoup.github.io/codecademy/tea-cozy/)
 
 A website for a fictional café with more complex CSS styling and jump links.
 
