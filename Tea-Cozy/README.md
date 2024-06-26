@@ -4,4 +4,4 @@ A website for a fictional café with more complex CSS styling and jump links.
 
 _Add.: This project was made at the beginning of my learning journey. Please excuse the very obvious mistakes (such as multiple divs with the same IDs) :)_
 
-![designSpecs](https://github.com/zuzOup/zuzOup.github.io/blob/5bf0794edfaa4dbbfba47b7af3b3d3afc979da83/codecademy/tea-cozy/designSpecs.jpg)
+![designSpecs](https://github.com/zuzOup/Codecademy/blob/40d26334163b4629b3c75b96a27a933a77f85ded/Tea-Cozy/designSpecs.jpg)
