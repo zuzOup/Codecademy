@@ -5,4 +5,4 @@
 
 A simple website built with provided design specs + images.
 
-![designspec](https://github.com/zuzOup/zuzOup.github.io/blob/38fa2f53bcc11c20d74effa9ce92bc00a93b6aa7/codecademy/Dasmotos-arts-crafts/designspec.jpg)
+![designspec](https://github.com/zuzOup/zuzOup.github.io/blob/e3a45acc082244122a446ae72a3d3899fba30739/Dasmotos-arts-crafts/designspec.jpg)
