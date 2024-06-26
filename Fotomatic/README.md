@@ -1,4 +1,4 @@
-# Off-Platform Project: Fotomatic
+# Off-Platform Project: Fotomatic [⟶](https://zuzoup.github.io/Codecademy/Fotomatic/)
 
 The project focuses on fixing a broken front page for a fictional online store. You are provided with a starting code ([Fotomatic-Start.html](https://zuzoup.github.io/Codecademy/Fotomatic/Fotomatic-start.html)) and design specs. 
 
