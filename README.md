@@ -6,7 +6,7 @@ Projects I have done for the Front-End Engineer career path on Codecademy
 
 #### HTML + CSS projects
 
-- **Dasmoto's Arts and Crafts:**  My very first project focused on building a simple website according to the provided design spec.
+- **Dashmoto's Arts and Crafts:**  My very first project focused on building a simple website according to the provided design spec.
 - **Tea Cozy:** A website for a fictional cafe with more complex CSS styling and jump links.
 - **Fotomatic:** Fixing broken webpage.
 
