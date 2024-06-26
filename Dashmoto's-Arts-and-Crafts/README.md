@@ -1,4 +1,4 @@
-# Codecademy Off-Platform Project: Dasmoto's Arts & Crafts [⟶](https://zuzoup.github.io/codecademy/Dashmoto's-arts-crafts/)
+# Codecademy Off-Platform Project: Dasmoto's Arts & Crafts [⟶](https://zuzoup.github.io/Codecademy/Dashmoto's-Arts-and-Crafts/)
 
 
 
